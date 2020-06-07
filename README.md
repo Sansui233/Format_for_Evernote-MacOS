@@ -5,18 +5,19 @@ Apply text format presets to Evernote
 
 ## Warning
 
-This is for Chinese evernote client(印象笔记). If you are using global client,
-**DO open files with Automator.app and change the input source. **
+This is for Chinese evernote client(印象笔记). If you are using global client,**DO open files with Automator.app and change the input source.**
 
 ## Installation
 
-把文件放入~/Library/Services  
+1. 把文件放入~/Library/Services  
 Put files into ~/Library/Services
 
-打开系统设置-安全与隐私-辅助功能：添加自动化App（那个小机器人）    
-System Settings-Security and Privacy-Accessbility: Add Automator.app
+2. 打开系统设置-安全与隐私-辅助功能：添加自动化App（那个小机器人） 与印象笔记  
+System Settings-Security and Privacy-Accessbility: Add Automator.app and Evernote.app
 
-如果想要设置快捷键，前往系统设置-键盘-快捷键-服务，修改文本组快捷键。建议您可以关掉不常用的其他服务，否则服务列表可能会过长。  
+## Shorcuts(Optional)
+
+如果想要设置快捷键，前往系统设置-键盘-快捷键-服务，在文本组找到相应服务并设置快捷键。建议您可以关掉不常用的其他服务，否则服务列表可能会过长。  
 If you want shortcuts, go to System Settings-Keyborad-Shortcuts-Services, find
 the group Text and set want u want. Choose to  uncheck infrequently used Services or make the services list looooooooong.
 
