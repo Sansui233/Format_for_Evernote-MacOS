@@ -1,7 +1,8 @@
+Legacy for Chinese evernote（印象笔记） users：中文版印象笔记更新了编辑器之后没有必要用这个了
+
 ## Intro
 
 Apply text format presets to Evernote  
-快速为印象笔记的文本添加各种自定义格式
 
 ## Warning
 
@@ -9,21 +10,16 @@ This is for Chinese evernote client(印象笔记). If you are using global clien
 
 ## Installation
 
-1. 把文件放入~/Library/Services  
-Put files into ~/Library/Services
-
-2. 打开系统设置-安全与隐私-辅助功能：添加自动化App（那个小机器人） 与印象笔记  
-System Settings-Security and Privacy-Accessbility: Add Automator.app and Evernote.app
+1. Put files into ~/Library/Services 
+2. System Settings-Security and Privacy-Accessbility: Add Automator.app and Evernote.app
 
 ## Shorcuts(Optional)
-
-如果想要设置快捷键，前往系统设置-键盘-快捷键-服务，在文本组找到相应服务并设置快捷键。建议您可以关掉不常用的其他服务，否则服务列表可能会过长。  
+  
 If you want shortcuts, go to System Settings-Keyborad-Shortcuts-Services, find
 the group Text and set want u want. Choose to  uncheck infrequently used Services or make the services list looooooooong.
 
 ## Usage
 
-打开印象笔记，选中文字，右键-服务。您可以看到你已经安装好的格式刷，点击即可一键修改格式。  
 Open Evernote, select texts, right click-services. If installed correctly
 you'll see format services list here. Click one of them to get it.
 
